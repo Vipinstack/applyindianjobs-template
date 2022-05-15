@@ -1,0 +1,12 @@
+#box {
+    width: 100%;
+    height:20rem;
+    max-width: 100rem;
+    padding-bottom: 0em;
+}
+
+.justify{
+    display: flex;
+    justify-content: center;
+}
+
